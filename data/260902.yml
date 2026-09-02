@@ -1,0 +1,64 @@
+about:
+  description: Music for the Shell. kew is an immersive and fast music player that allows you to listen to music with privacy.
+  license: GPL-2.0
+  homepage: https://kewplayer.com
+  head: dd65462
+  archived: false
+  latestVersion: v4.3.0
+  collectedAt: 2026-09-02T04:48:42Z
+timeline:
+  created: 2023-05-17
+  lastCommit: 2026-09-01
+  lastRelease: 2026-09-01
+popularity:
+  star: 3011
+  watcher: 21
+  fork: 103
+  release: 87
+  contributor: 50
+  pullRequest: 25
+  issue: 352
+language:
+  C: 6685025
+  C++: 363279
+  HTML: 165417
+  Makefile: 15854
+  Objective-C: 11390
+  CSS: 9258
+  Nix: 2693
+  Inno Setup: 1665
+  Shell: 720
+totalLine: 7255301
+recent:
+  last30d:
+    since: 2026-08-03
+    release: 2
+    mergedPR: 6
+    openPR: 0
+    closedIssue: 2
+    openIssue: 3
+    commit: 86
+  last90d:
+    since: 2026-06-04
+    release: 18
+    mergedPR: 9
+    openPR: 0
+    closedIssue: 15
+    openIssue: 3
+    commit: 971
+  last180d:
+    since: 2026-03-06
+    release: 19
+    mergedPR: 10
+    openPR: 0
+    closedIssue: 19
+    openIssue: 3
+    commit: 1342
+  last360d:
+    since: 2025-09-07
+    release: 31
+    mergedPR: 18
+    openPR: 0
+    closedIssue: 103
+    openIssue: 3
+    commit: 1965
