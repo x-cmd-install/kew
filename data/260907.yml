@@ -2,100 +2,100 @@ about:
   description: "Music for the Shell. kew is an immersive and fast music player that allows you to listen to music with privacy."
   license: GPL-2.0
   homepage: https://kewplayer.com
-  head: f2c1faf
+  head: 1e40bd1
   archived: false
   latestVersion: "v4.3.2"
-  collectedAt: 2026-09-07T05:42:17Z
+  collectedAt: 2026-09-07T18:48:36Z
 timeline:
   created: 2023-05-17
   lastCommit: 2026-09-07
   lastRelease: 2026-09-05
 popularity:
-  star: 3026
-  watcher: 21
+  star: 3028
+  watcher: 22
   fork: 106
   release: 88
   contributor: 52
   pullRequest: 154
   issue: 352
 language:
-  C: 6694929
+  C: 6696232
   C++: 363400
   Makefile: 14894
   Objective-C: 11390
   Nix: 2693
   Inno Setup: 1665
   Shell: 720
-totalBytes: 7089691
+totalBytes: 7090994
 recent:
   last30d:
     since: 2026-08-08
     release: 3
     mergedPR: 7
     openPR: 0
-    closedIssue: 2
-    openIssue: 3
-    commit: 102
+    closedIssue: 3
+    openIssue: 2
+    commit: 109
   last60d:
     since: 2026-07-09
     release: 10
     mergedPR: 11
     openPR: 0
-    closedIssue: 12
-    openIssue: 3
-    commit: 244
+    closedIssue: 13
+    openIssue: 2
+    commit: 251
   last90d:
     since: 2026-06-09
     release: 19
     mergedPR: 11
     openPR: 0
-    closedIssue: 15
-    openIssue: 3
-    commit: 920
+    closedIssue: 16
+    openIssue: 2
+    commit: 927
   last180d:
     since: 2026-03-11
     release: 20
     mergedPR: 12
     openPR: 0
-    closedIssue: 19
-    openIssue: 3
-    commit: 1368
+    closedIssue: 20
+    openIssue: 2
+    commit: 1375
   last360d:
     since: 2025-09-12
     release: 32
     mergedPR: 19
     openPR: 0
-    closedIssue: 102
-    openIssue: 3
-    commit: 1983
+    closedIssue: 103
+    openIssue: 2
+    commit: 1990
   last720d:
     since: 2024-09-17
     release: 51
     mergedPR: 102
     openPR: 0
-    closedIssue: 228
-    openIssue: 3
-    commit: 3020
+    closedIssue: 229
+    openIssue: 2
+    commit: 3027
 total:
   release: 88
   mergedPR: 129
   openPR: 0
-  closedIssue: 349
-  openIssue: 3
-  commit: 3522
+  closedIssue: 350
+  openIssue: 2
+  commit: 3529
 ---
 path: /home/runner/.x-repo/github.com/ravachol/kew
-collectedAt: 2026-09-07T05:42:31Z
+collectedAt: 2026-09-07T18:48:49Z
 loc:
   CHeader:
-    code: 98309
-    comments: 21377
-    blanks: 17666
+    code: 98310
+    comments: 21386
+    blanks: 17667
     files: 75
   C:
-    code: 32354
+    code: 32378
     comments: 1954
-    blanks: 8235
+    blanks: 8244
     files: 56
   Cpp:
     code: 1807
@@ -139,8 +139,8 @@ loc:
     files: 1
   Markdown:
     code: 0
-    comments: 1686
-    blanks: 1314
+    comments: 1695
+    blanks: 1320
     files: 16
   Text:
     code: 0
@@ -148,15 +148,15 @@ loc:
     blanks: 26
     files: 5
 total:
-  code: 133347
-  comments: 25301
-  blanks: 27826
+  code: 133372
+  comments: 25319
+  blanks: 27842
   files: 161
 ---
 
 ---
 eget:
-  collectedAt: 2026-09-07T05:42:32+00:00
+  collectedAt: 2026-09-07T18:48:50+00:00
   platform:
     darwin/arm64:
       name:  null
