@@ -1,0 +1,190 @@
+about:
+  description: "Music for the Shell. kew is an immersive and fast music player that allows you to listen to music with privacy."
+  license: GPL-2.0
+  homepage: https://kewplayer.com
+  head: f2c1faf
+  archived: false
+  latestVersion: "v4.3.2"
+  collectedAt: 2026-09-07T05:42:17Z
+timeline:
+  created: 2023-05-17
+  lastCommit: 2026-09-07
+  lastRelease: 2026-09-05
+popularity:
+  star: 3026
+  watcher: 21
+  fork: 106
+  release: 88
+  contributor: 52
+  pullRequest: 154
+  issue: 352
+language:
+  C: 6694929
+  C++: 363400
+  Makefile: 14894
+  Objective-C: 11390
+  Nix: 2693
+  Inno Setup: 1665
+  Shell: 720
+totalBytes: 7089691
+recent:
+  last30d:
+    since: 2026-08-08
+    release: 3
+    mergedPR: 7
+    openPR: 0
+    closedIssue: 2
+    openIssue: 3
+    commit: 102
+  last60d:
+    since: 2026-07-09
+    release: 10
+    mergedPR: 11
+    openPR: 0
+    closedIssue: 12
+    openIssue: 3
+    commit: 244
+  last90d:
+    since: 2026-06-09
+    release: 19
+    mergedPR: 11
+    openPR: 0
+    closedIssue: 15
+    openIssue: 3
+    commit: 920
+  last180d:
+    since: 2026-03-11
+    release: 20
+    mergedPR: 12
+    openPR: 0
+    closedIssue: 19
+    openIssue: 3
+    commit: 1368
+  last360d:
+    since: 2025-09-12
+    release: 32
+    mergedPR: 19
+    openPR: 0
+    closedIssue: 102
+    openIssue: 3
+    commit: 1983
+  last720d:
+    since: 2024-09-17
+    release: 51
+    mergedPR: 102
+    openPR: 0
+    closedIssue: 228
+    openIssue: 3
+    commit: 3020
+total:
+  release: 88
+  mergedPR: 129
+  openPR: 0
+  closedIssue: 349
+  openIssue: 3
+  commit: 3522
+---
+path: /home/runner/.x-repo/github.com/ravachol/kew
+collectedAt: 2026-09-07T05:42:31Z
+loc:
+  CHeader:
+    code: 98309
+    comments: 21377
+    blanks: 17666
+    files: 75
+  C:
+    code: 32354
+    comments: 1954
+    blanks: 8235
+    files: 56
+  Cpp:
+    code: 1807
+    comments: 122
+    blanks: 450
+    files: 2
+  Makefile:
+    code: 340
+    comments: 45
+    blanks: 68
+    files: 1
+  ObjectiveC:
+    code: 208
+    comments: 9
+    blanks: 31
+    files: 1
+  ReScript:
+    code: 106
+    comments: 0
+    blanks: 0
+    files: 1
+  Nix:
+    code: 82
+    comments: 0
+    blanks: 11
+    files: 1
+  RPMSpecfile:
+    code: 40
+    comments: 0
+    blanks: 9
+    files: 1
+  Bash:
+    code: 11
+    comments: 8
+    blanks: 5
+    files: 1
+  Xml:
+    code: 9
+    comments: 0
+    blanks: 0
+    files: 1
+  Markdown:
+    code: 0
+    comments: 1686
+    blanks: 1314
+    files: 16
+  Text:
+    code: 0
+    comments: 92
+    blanks: 26
+    files: 5
+total:
+  code: 133347
+  comments: 25301
+  blanks: 27826
+  files: 161
+---
+
+---
+eget:
+  collectedAt: 2026-09-07T05:42:32+00:00
+  platform:
+    darwin/arm64:
+      name:  null
+      url:   null
+      size:  null
+      score: null
+    darwin/amd64:
+      name:  null
+      url:   null
+      size:  null
+      score: null
+    linux/arm64:
+      name:  null
+      url:   null
+      size:  null
+      score: null
+    linux/amd64:
+      name:  null
+      url:   null
+      size:  null
+      score: null
+    win/arm64:
+      name:  null
+      url:   null
+      size:  null
+      score: null
+    win/amd64:
+      name:  null
+      url:   null
+      size:  null
+      score: null
