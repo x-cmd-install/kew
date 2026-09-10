@@ -2,12 +2,12 @@ about:
   description: "Music for the Shell. kew is an immersive and fast music player that allows you to listen to music with privacy."
   license: GPL-2.0
   homepage: https://kewplayer.com
-  head: 5dc9727
+  head: 069c54e
   archived: false
   latestVersion: "v4.3.2"
   latestRelease: "v4.3.2"
   latestPrerelease: "v3.0.0-rc1"
-  collectedAt: 2026-09-10T17:48:28Z
+  collectedAt: 2026-09-10T21:45:41Z
 timeline:
   created: 2023-05-17
   lastCommit: 2026-09-10
@@ -39,7 +39,7 @@ recent:
     openPR: 0
     closedIssue: 4
     openIssue: 2
-    commit: 116
+    commit: 117
   last60d:
     since: 2026-07-12
     release: 10
@@ -47,7 +47,7 @@ recent:
     openPR: 0
     closedIssue: 13
     openIssue: 2
-    commit: 258
+    commit: 259
   last90d:
     since: 2026-06-12
     release: 19
@@ -55,7 +55,7 @@ recent:
     openPR: 0
     closedIssue: 17
     openIssue: 2
-    commit: 934
+    commit: 935
   last180d:
     since: 2026-03-14
     release: 20
@@ -63,7 +63,7 @@ recent:
     openPR: 0
     closedIssue: 20
     openIssue: 2
-    commit: 1382
+    commit: 1383
   last360d:
     since: 2025-09-15
     release: 32
@@ -71,7 +71,7 @@ recent:
     openPR: 0
     closedIssue: 97
     openIssue: 2
-    commit: 1997
+    commit: 1998
   last720d:
     since: 2024-09-20
     release: 51
@@ -79,17 +79,17 @@ recent:
     openPR: 0
     closedIssue: 230
     openIssue: 2
-    commit: 3027
+    commit: 3028
 total:
   release: 88
   mergedPR: 129
   openPR: 0
   closedIssue: 351
   openIssue: 2
-  commit: 3536
+  commit: 3537
 ---
 path: /home/runner/.x-repo/github.com/ravachol/kew
-collectedAt: 2026-09-10T17:48:47Z
+collectedAt: 2026-09-10T21:45:54Z
 loc:
   CHeader:
     code: 98339
