@@ -1,9 +1,9 @@
 {
-  "url": "https://api.github.com/repos/ravachol/kew/releases/383076022",
-  "assets_url": "https://api.github.com/repos/ravachol/kew/releases/383076022/assets",
-  "upload_url": "https://uploads.github.com/repos/ravachol/kew/releases/383076022/assets{?name,label}",
-  "html_url": "https://github.com/ravachol/kew/releases/tag/v4.3.2",
-  "id": 383076022,
+  "url": "https://api.github.com/repos/ravachol/kew/releases/387464630",
+  "assets_url": "https://api.github.com/repos/ravachol/kew/releases/387464630/assets",
+  "upload_url": "https://uploads.github.com/repos/ravachol/kew/releases/387464630/assets{?name,label}",
+  "html_url": "https://github.com/ravachol/kew/releases/tag/v4.3.4",
+  "id": 387464630,
   "author": {
     "login": "ravachol",
     "id": 9517715,
@@ -25,22 +25,22 @@
     "user_view_type": "public",
     "site_admin": false
   },
-  "node_id": "RE_kwDOJkBsTc4W1Ua2",
-  "tag_name": "v4.3.2",
+  "node_id": "RE_kwDOJkBsTc4XGD22",
+  "tag_name": "v4.3.4",
   "target_commitish": "main",
-  "name": "v4.3.2",
+  "name": "v4.3.4",
   "draft": false,
   "immutable": false,
   "prerelease": false,
-  "created_at": "2026-09-05T00:14:59Z",
-  "updated_at": "2026-09-05T00:19:48Z",
-  "published_at": "2026-09-05T00:16:15Z",
+  "created_at": "2026-09-12T05:20:11Z",
+  "updated_at": "2026-09-12T05:25:40Z",
+  "published_at": "2026-09-12T05:21:53Z",
   "assets": [
     {
-      "url": "https://api.github.com/repos/ravachol/kew/releases/assets/545117504",
-      "id": 545117504,
-      "node_id": "RA_kwDOJkBsTc4gfdVA",
-      "name": "kew-4.3.2-windows-x64.exe",
+      "url": "https://api.github.com/repos/ravachol/kew/releases/assets/558676057",
+      "id": 558676057,
+      "node_id": "RA_kwDOJkBsTc4hTLhZ",
+      "name": "kew-4.3.4-windows-x64.exe",
       "label": "",
       "uploader": {
         "login": "github-actions[bot]",
@@ -65,16 +65,16 @@
       },
       "content_type": "application/x-msdos-program",
       "state": "uploaded",
-      "size": 7769636,
-      "digest": "sha256:21adb3df01cbb544a3cbf10f8abbdf249d93f4f2c8af7f6a70cdbe1884927e2d",
-      "download_count": 58,
-      "created_at": "2026-09-05T00:19:48Z",
-      "updated_at": "2026-09-05T00:19:48Z",
-      "browser_download_url": "https://github.com/ravachol/kew/releases/download/v4.3.2/kew-4.3.2-windows-x64.exe"
+      "size": 7796389,
+      "digest": "sha256:3f5610a400fb7bd16cc778963e4c666cd11387d9c77df5069cd186280494973f",
+      "download_count": 2,
+      "created_at": "2026-09-12T05:25:39Z",
+      "updated_at": "2026-09-12T05:25:40Z",
+      "browser_download_url": "https://github.com/ravachol/kew/releases/download/v4.3.4/kew-4.3.4-windows-x64.exe"
     }
   ],
-  "tarball_url": "https://api.github.com/repos/ravachol/kew/tarball/v4.3.2",
-  "zipball_url": "https://api.github.com/repos/ravachol/kew/zipball/v4.3.2",
-  "body": "## kew 4.3.2\r\n\r\n#### Enhancements:\r\n\r\n- Default replay gain is now track if shuffle is enabled, otherwise album. By @yamhab.\r\n\r\n#### Bug fixes:\r\n\r\n- Fix crash when enqueuing files that don't have file numbers in the title. By @ravachol. Found by @LeahTheSlug.\r\n\r\n- Fix playlist corruption when enqueueing from the library root. By @omardev29. Found by @LeahTheSlug.",
-  "mentions_count": 4
+  "tarball_url": "https://api.github.com/repos/ravachol/kew/tarball/v4.3.4",
+  "zipball_url": "https://api.github.com/repos/ravachol/kew/zipball/v4.3.4",
+  "body": "## kew 4.3.4\r\n\r\n#### Bug fixes:\r\n\r\n- Fix clicking links affecting rendering. By @ravachol.",
+  "mentions_count": 1
 }
