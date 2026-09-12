@@ -14,12 +14,12 @@ x install kew
 
 ## Code insight
 
-Total: **133,731** lines of code across **137** files in the top 5 languages.
+Total: **133,747** lines of code across **137** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
 | CHeader | 98,344 | 21,386 | 17,678 | 76 |
-| C | 32,468 | 1,958 | 8,270 | 56 |
+| C | 32,484 | 1,959 | 8,279 | 56 |
 | Cpp | 2,108 | 155 | 571 | 3 |
 | Makefile | 355 | 48 | 71 | 1 |
 | ObjectiveC | 208 | 9 | 31 | 1 |
@@ -32,34 +32,34 @@ Total: **133,731** lines of code across **137** files in the top 5 languages.
 
 ## Release
 
-- **Latest**: `v4.3.2` (2026-09-05)
-- **Last commit**: 2026-09-11
+- **Latest**: `v4.3.4` (2026-09-12)
+- **Last commit**: 2026-09-12
 - **Assets in release**: 1
 
 ## Popularity
 
-- **Stars**: 3,042 · **Forks**: 106 · **Open issues**: 353 · **Contributors**: 52
+- **Stars**: 3,050 · **Forks**: 106 · **Open issues**: 353 · **Contributors**: 52
 
 ## Totals (cumulative)
 
-- **Releases**: 88 · **Merged PRs**: 129 · **Open PRs**: 0 · **Closed issues**: 351 · **Open issues**: 2 · **Commits**: 3541
+- **Releases**: 90 · **Merged PRs**: 129 · **Open PRs**: 0 · **Closed issues**: 351 · **Open issues**: 2 · **Commits**: 3546
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-12 | 3 | 6 | 0 | 4 | 2 | 121 |
-| last60d | 2026-07-13 | 10 | 11 | 0 | 12 | 2 | 263 |
-| 90d | 2026-06-13 | 19 | 11 | 0 | 17 | 2 | 939 |
-| last180d | 2026-03-15 | 20 | 12 | 0 | 20 | 2 | 1387 |
-| 360d | 2025-09-16 | 32 | 19 | 0 | 96 | 2 | 2002 |
-| last720d | 2024-09-21 | 50 | 101 | 0 | 229 | 2 | 3031 |
+| 30d | 2026-08-13 | 5 | 6 | 0 | 4 | 2 | 125 |
+| last60d | 2026-07-14 | 10 | 11 | 0 | 12 | 2 | 267 |
+| 90d | 2026-06-14 | 21 | 11 | 0 | 17 | 2 | 943 |
+| last180d | 2026-03-16 | 22 | 12 | 0 | 20 | 2 | 1391 |
+| 360d | 2025-09-17 | 34 | 19 | 0 | 96 | 2 | 2006 |
+| last720d | 2024-09-22 | 51 | 101 | 0 | 229 | 2 | 3032 |
 
 ## Release assets
 
 | Asset | Size | Target |
 |-------|-----:|--------|
-| [kew-4.3.2-windows-x64.exe](https://github.com/ravachol/kew/releases/download/v4.3.2/kew-4.3.2-windows-x64.exe) | 7.4 MiB | `native/win/x64` |
+| [kew-4.3.4-windows-x64.exe](https://github.com/ravachol/kew/releases/download/v4.3.4/kew-4.3.4-windows-x64.exe) | 7.4 MiB | `native/win/x64` |
 
 ## Distribution status
 
@@ -88,4 +88,4 @@ Install metadata for kew lives in the [x-cmd/install](https://github.com/x-cmd/i
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260911.yml` · 2026-09-11T19:01:55Z._
+_Snapshot: `data/card/260912.yml` · 2026-09-12T05:39:55Z._
