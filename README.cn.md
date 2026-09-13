@@ -2,7 +2,7 @@
 
 [English version](./README.md)
 
-Music for the Shell. kew is an immersive and fast music player that allows you to listen to music with privacy.
+Music for the Shell. kew is a fast, immersive music player that allows you to listen to music privately.
 
 ![kew](https://repo.x-cmd.io/kew.svg?lang=zh)
 
@@ -14,12 +14,12 @@ x install kew
 
 ## 代码洞察
 
-合计: **133,747** 行代码（覆盖前 5 种语言、共 **137** 个文件）。
+合计: **133,825** 行代码（覆盖前 5 种语言、共 **137** 个文件）。
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
-| CHeader | 98,344 | 21,386 | 17,678 | 76 |
-| C | 32,484 | 1,959 | 8,279 | 56 |
+| CHeader | 98,348 | 21,392 | 17,681 | 76 |
+| C | 32,558 | 1,963 | 8,311 | 56 |
 | Cpp | 2,108 | 155 | 571 | 3 |
 | Makefile | 355 | 48 | 71 | 1 |
 | ObjectiveC | 208 | 9 | 31 | 1 |
@@ -33,27 +33,27 @@ x install kew
 ## 发布
 
 - **最新版本**: `v4.3.4` (2026-09-12)
-- **最近提交**: 2026-09-12
+- **最近提交**: 2026-09-13
 - **Release 含资产**: 1 个
 
 ## 流行度
 
-- **Star**: 3,050 · **Fork**: 106 · **开放 issue**: 353 · **贡献者**: 52
+- **Star**: 3,059 · **Fork**: 106 · **开放 issue**: 355 · **贡献者**: 52
 
 ## 累计统计
 
-- **发布数**: 90 · **已合并 PR**: 129 · **开放 PR**: 0 · **已关闭 issue**: 351 · **开放 issue**: 2 · **提交数**: 3546
+- **发布数**: 90 · **已合并 PR**: 129 · **开放 PR**: 0 · **已关闭 issue**: 354 · **开放 issue**: 1 · **提交数**: 3554
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-13 | 5 | 6 | 0 | 4 | 2 | 125 |
-| last60d | 2026-07-14 | 10 | 11 | 0 | 12 | 2 | 267 |
-| 90d | 2026-06-14 | 21 | 11 | 0 | 17 | 2 | 943 |
-| last180d | 2026-03-16 | 22 | 12 | 0 | 20 | 2 | 1391 |
-| 360d | 2025-09-17 | 34 | 19 | 0 | 96 | 2 | 2006 |
-| last720d | 2024-09-22 | 51 | 101 | 0 | 229 | 2 | 3032 |
+| 30d | 2026-08-14 | 5 | 6 | 0 | 7 | 1 | 127 |
+| last60d | 2026-07-15 | 10 | 11 | 0 | 15 | 1 | 175 |
+| 90d | 2026-06-15 | 21 | 11 | 0 | 20 | 1 | 793 |
+| last180d | 2026-03-17 | 22 | 12 | 0 | 23 | 1 | 1398 |
+| 360d | 2025-09-18 | 34 | 19 | 0 | 99 | 1 | 2007 |
+| last720d | 2024-09-23 | 50 | 101 | 0 | 232 | 1 | 3035 |
 
 ## Release 资产
 
@@ -63,7 +63,7 @@ x install kew
 
 ## 发行版状态
 
-在 [repology.org](https://repology.org/project/kew) 上共有 **54** 个发行版报告此项目。**19** 个 ✅ 已是最新上游版本，**30** 个 ⚠️ 使用旧版本。
+在 [repology.org](https://repology.org/project/kew) 上共有 **55** 个发行版报告此项目。**3** 个 ✅ 已是最新上游版本，**47** 个 ⚠️ 使用旧版本。
 
 | 发行版 | 版本 | 状态 |
 |--------|------|------|
@@ -72,10 +72,10 @@ x install kew
 | Debian 13 | `3.2.0` | ⚠️ outdated |
 | Ubuntu 26.04 LTS | `3.7.3` | ⚠️ outdated |
 | Ubuntu 24.04 LTS | `2.4.2` | ⚠️ outdated |
-| Arch | `4.3.2` | ✅ latest |
-| Homebrew | `4.3.2` | ✅ latest |
-| Nix unstable | `4.3.2` | ✅ latest |
-| Void | `4.3.2` | ✅ latest |
+| Arch | `4.3.2` | ⚠️ outdated |
+| Homebrew | `4.3.4` | ✅ latest |
+| Nix unstable | `4.3.2` | ⚠️ outdated |
+| Void | `4.3.2` | ⚠️ outdated |
 | Alpine edge | `4.2.7` | ⚠️ outdated |
 | openSUSE Tumbleweed | `4.2.7` | ⚠️ outdated |
 
@@ -88,4 +88,4 @@ kew 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索�
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260912.yml` · 2026-09-12T05:39:56Z._
+_数据快照: `data/card/260913.yml` · 2026-09-13T05:50:20Z._
