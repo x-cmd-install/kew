@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 7796389,
       "digest": "sha256:3f5610a400fb7bd16cc778963e4c666cd11387d9c77df5069cd186280494973f",
-      "download_count": 2,
+      "download_count": 21,
       "created_at": "2026-09-12T05:25:39Z",
       "updated_at": "2026-09-12T05:25:40Z",
       "browser_download_url": "https://github.com/ravachol/kew/releases/download/v4.3.4/kew-4.3.4-windows-x64.exe"
