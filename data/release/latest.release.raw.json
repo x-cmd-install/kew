@@ -1,9 +1,9 @@
 {
-  "url": "https://api.github.com/repos/ravachol/kew/releases/387464630",
-  "assets_url": "https://api.github.com/repos/ravachol/kew/releases/387464630/assets",
-  "upload_url": "https://uploads.github.com/repos/ravachol/kew/releases/387464630/assets{?name,label}",
-  "html_url": "https://github.com/ravachol/kew/releases/tag/v4.3.4",
-  "id": 387464630,
+  "url": "https://api.github.com/repos/ravachol/kew/releases/392897965",
+  "assets_url": "https://api.github.com/repos/ravachol/kew/releases/392897965/assets",
+  "upload_url": "https://uploads.github.com/repos/ravachol/kew/releases/392897965/assets{?name,label}",
+  "html_url": "https://github.com/ravachol/kew/releases/tag/v4.3.5",
+  "id": 392897965,
   "author": {
     "login": "ravachol",
     "id": 9517715,
@@ -25,22 +25,22 @@
     "user_view_type": "public",
     "site_admin": false
   },
-  "node_id": "RE_kwDOJkBsTc4XGD22",
-  "tag_name": "v4.3.4",
+  "node_id": "RE_kwDOJkBsTc4XayWt",
+  "tag_name": "v4.3.5",
   "target_commitish": "main",
-  "name": "v4.3.4",
+  "name": "v4.3.5",
   "draft": false,
   "immutable": false,
   "prerelease": false,
-  "created_at": "2026-09-12T05:20:11Z",
-  "updated_at": "2026-09-17T15:07:46Z",
-  "published_at": "2026-09-12T05:21:53Z",
+  "created_at": "2026-09-21T11:15:21Z",
+  "updated_at": "2026-09-21T11:20:55Z",
+  "published_at": "2026-09-21T11:17:52Z",
   "assets": [
     {
-      "url": "https://api.github.com/repos/ravachol/kew/releases/assets/558676057",
-      "id": 558676057,
-      "node_id": "RA_kwDOJkBsTc4hTLhZ",
-      "name": "kew-4.3.4-windows-x64.exe",
+      "url": "https://api.github.com/repos/ravachol/kew/releases/assets/578891857",
+      "id": 578891857,
+      "node_id": "RA_kwDOJkBsTc4igTBR",
+      "name": "kew-4.3.5-windows-x64.exe",
       "label": "",
       "uploader": {
         "login": "github-actions[bot]",
@@ -65,16 +65,16 @@
       },
       "content_type": "application/x-msdos-program",
       "state": "uploaded",
-      "size": 7796389,
-      "digest": "sha256:3f5610a400fb7bd16cc778963e4c666cd11387d9c77df5069cd186280494973f",
-      "download_count": 103,
-      "created_at": "2026-09-12T05:25:39Z",
-      "updated_at": "2026-09-12T05:25:40Z",
-      "browser_download_url": "https://github.com/ravachol/kew/releases/download/v4.3.4/kew-4.3.4-windows-x64.exe"
+      "size": 7801876,
+      "digest": "sha256:11e80b8d8d4c99efcff1bdf800285c1049538bdb1118708304402105423ceff5",
+      "download_count": 12,
+      "created_at": "2026-09-21T11:20:54Z",
+      "updated_at": "2026-09-21T11:20:54Z",
+      "browser_download_url": "https://github.com/ravachol/kew/releases/download/v4.3.5/kew-4.3.5-windows-x64.exe"
     }
   ],
-  "tarball_url": "https://api.github.com/repos/ravachol/kew/tarball/v4.3.4",
-  "zipball_url": "https://api.github.com/repos/ravachol/kew/zipball/v4.3.4",
-  "body": "## kew 4.3.4\r\n\r\n#### Bug fixes:\r\n\r\n- Fix clicking links affecting rendering. By @ravachol.\r\n\r\n## kew 4.3.3\r\n\r\n#### Enhancements:\r\n\r\n- Add Scrollable text on help view. By @ravachol. Suggested by @hashfoeW.\r\n\r\n- Add progress bar below mini-controls. By @ravachol.\r\n\r\n- Moved the website source out of kew repository, it will now be on https://codeberg.org/ravachol/kew-website.git. This makes the zip and git clone as lightweight as before the website. By @ravachol.\r\n\r\n- Volume now can go to 12, or 120%. So when you're at 11, and you need a little bit more... By @ravachol. Suggested by @GTAGCT.\r\n\r\n- Added ability to read lyrics from TXXX (description: USLT) tags, which is how ffmpeg defaults to encode lyrics.\r\n\r\n- Auto-resume is now off by default in a fresh install. Sorry, auto-resumers, but it can be very annoying. We want to avoid annoying things. It can be changed in kewrc to `autoResume=1`.\r\n\r\n#### Bug fixes:\r\n\r\n- Fix: vulnerability in kew since v4.3.2. Maintainers of downstream packages can contact kew-player@proton.me for coordinated disclosure and additional technical information. By @ravachol. Reported by @eilvelia (https://github.com/eilvelia).\r\n\r\n- Fix Updating library sets sort to date bug. By @ravachol. Reported by @Narwha1.\r\n\r\n- Fixes so albums that are at the top-level aren't shuffled (only if they have sub-folders with songs, ie it's an artist or genre folder, not an album folder). By @ravachol. Reported by @Narwha1.\r\n\r\n- Fixes several issues with chroma and enables it on windows. However due to changes to chroma, it doesn't have audio reactivity unless you install the develop branch of chroma:\r\n\r\n```\r\ngit clone https://github.com/yuri-xyz/chroma.git\r\n\r\ncd chroma\r\n\r\ngit checkout branch develop\r\n\r\ncargo install --path .\r\n```\r\n\r\nBy @ravachol.\r\n\r\n- Fixes issue with karaoke lyrics. By @Moksh-Parikh.\r\n\r\n- Fix music auto-plays when merely expanding a directory where the songs are enqueued. By @ravachol.\r\n\r\n- When enqueueing in shuffle mode and I enqueue an album, the first song should also be shuffled. By @ravachol. Suggested by @Oyouu.\r\n\r\nWindows installer available at: https://kewplayer.com/download.html\r\n",
-  "mentions_count": 7
+  "tarball_url": "https://api.github.com/repos/ravachol/kew/tarball/v4.3.5",
+  "zipball_url": "https://api.github.com/repos/ravachol/kew/zipball/v4.3.5",
+  "body": "## kew 4.3.5\r\n\r\nThe first month of \"Project Joy\", where we are trying to get people to post about the little annoyances and glitches in kew, went very well. We got a lot of suggestions and I have been implementing those. Just keep going, post more issues. We want to fix the tiny little details.\r\n\r\nThere's a bug on CachyOS that we believe is related to chafa crashing on Zen 5 CPUs. There will be a new version of Chafa soon.\r\n\r\n/Ravachol\r\n\r\n#### Enhancements:\r\n\r\n-  Smooth looping, ie gapless playback on repeated tracks. By @ravachol. Requested by @AnotherPlayer8.\r\n\r\n- Added info message for common toggles and cycles like theme notifications, shuffle, repeat. These has been a 'Project Joy' request by several people. By @ravachol.\r\n\r\n- Error messages time out after 3 seconds. By @ravachol.\r\n\r\n- Check m3u playlists for relative paths not only for the location of the .m3u but also against the music library. By @ravachol. Suggested by @partisani.\r\n\r\n- Added verbose mode, to help with debuggging. Run with --verbose. By @ravachol.\r\n\r\n#### Bug fixes:\r\n\r\n- Fixes issue where scrolling in help view leaves the bottom part cut off. By @ravachol.\r\n\r\n- Fixes when a song is enqueued in library and album colors is the color mode, a song further down gets colored. By @ravachol.\r\n\r\n- Fixes when a mini control is clicked, the song in the library on the same row disappears. By @ravachol.\r\n\r\n- Fix bug in progress bar below side cover. By ®ravachol.\r\n\r\n- Fixes several bugs in choose_album_song. By @ravachol.\r\n\r\n- Fixes wide covers in landscape mode being vertically centerded. By @nhuvaynhe.\r\n\r\n- Fix undefined behavior in help view. Reported by @petoem. By ®ravachol.\r\n\r\n- Fix shuffle bug where the first enqueued song is played second in the shufle list. Found by @Oyouu. By @ravachol.",
+  "mentions_count": 6
 }
