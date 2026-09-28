@@ -14,12 +14,12 @@ x install kew
 
 ## Code insight
 
-Total: **135,117** lines of code across **141** files in the top 5 languages.
+Total: **135,123** lines of code across **141** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
 | CHeader | 98,528 | 21,439 | 17,734 | 78 |
-| C | 33,626 | 2,096 | 8,650 | 58 |
+| C | 33,632 | 2,097 | 8,650 | 58 |
 | Cpp | 2,138 | 153 | 557 | 3 |
 | Makefile | 369 | 49 | 75 | 1 |
 | ObjectiveC | 208 | 9 | 31 | 1 |
@@ -33,27 +33,27 @@ Total: **135,117** lines of code across **141** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v4.3.8` (2026-09-26)
-- **Last commit**: 2026-09-26
+- **Last commit**: 2026-09-27
 - **Assets in release**: 1
 
 ## Popularity
 
-- **Stars**: 3,113 · **Forks**: 108 · **Open issues**: 357 · **Contributors**: 52
+- **Stars**: 3,118 · **Forks**: 108 · **Open issues**: 357 · **Contributors**: 52
 
 ## Totals (cumulative)
 
-- **Releases**: 92 · **Merged PRs**: 129 · **Open PRs**: 0 · **Closed issues**: 356 · **Open issues**: 1 · **Commits**: 3629
+- **Releases**: 92 · **Merged PRs**: 129 · **Open PRs**: 0 · **Closed issues**: 356 · **Open issues**: 1 · **Commits**: 3634
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-28 | 7 | 3 | 0 | 5 | 0 | 132 |
-| last60d | 2026-07-29 | 7 | 8 | 0 | 9 | 1 | 225 |
-| 90d | 2026-06-29 | 23 | 11 | 0 | 22 | 1 | 465 |
-| last180d | 2026-03-31 | 24 | 12 | 0 | 25 | 1 | 1453 |
-| 360d | 2025-10-02 | 36 | 19 | 0 | 99 | 1 | 1966 |
-| last720d | 2024-10-07 | 52 | 99 | 0 | 230 | 1 | 3091 |
+| 30d | 2026-08-29 | 7 | 3 | 0 | 5 | 0 | 135 |
+| last60d | 2026-07-30 | 7 | 8 | 0 | 9 | 1 | 228 |
+| 90d | 2026-06-30 | 21 | 11 | 0 | 20 | 1 | 468 |
+| last180d | 2026-04-01 | 24 | 12 | 0 | 25 | 1 | 1456 |
+| 360d | 2025-10-03 | 36 | 19 | 0 | 99 | 1 | 1969 |
+| last720d | 2024-10-08 | 52 | 99 | 0 | 230 | 1 | 3094 |
 
 ## Release assets
 
@@ -70,4 +70,4 @@ Install metadata for kew lives in the [x-cmd/install](https://github.com/x-cmd/i
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260927.yml` · 2026-09-27T06:10:40Z._
+_Snapshot: `data/card/260928.yml` · 2026-09-28T06:28:11Z._
