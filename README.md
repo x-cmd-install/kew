@@ -14,7 +14,7 @@ x install kew
 
 ## Code insight
 
-Total: **135,582** lines of code across **141** files in the top 5 languages.
+Total: **135,628** lines of code across **141** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
@@ -33,33 +33,34 @@ Total: **135,582** lines of code across **141** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v4.3.8` (2026-09-26)
-- **Last commit**: 2026-10-01
-- **Assets in release**: 1
+- **Last commit**: 2026-10-02
+- **Assets in release**: 2
 
 ## Popularity
 
-- **Stars**: 3,130 · **Forks**: 109 · **Open issues**: 361 · **Contributors**: 53
+- **Stars**: 3,132 · **Forks**: 109 · **Open issues**: 361 · **Contributors**: 53
 
 ## Totals (cumulative)
 
-- **Releases**: 92 · **Merged PRs**: 129 · **Open PRs**: 1 · **Closed issues**: 359 · **Open issues**: 2 · **Commits**: 3672
+- **Releases**: 92 · **Merged PRs**: 129 · **Open PRs**: 1 · **Closed issues**: 359 · **Open issues**: 2 · **Commits**: 3677
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-02 | 5 | 2 | 1 | 8 | 1 | 168 |
-| last60d | 2026-08-03 | 7 | 8 | 1 | 12 | 2 | 261 |
-| 90d | 2026-07-04 | 15 | 11 | 1 | 22 | 2 | 501 |
-| last180d | 2026-04-05 | 24 | 12 | 1 | 28 | 2 | 1489 |
-| 360d | 2025-10-07 | 35 | 18 | 1 | 99 | 2 | 2002 |
-| last720d | 2024-10-12 | 52 | 99 | 1 | 232 | 2 | 3120 |
+| 30d | 2026-09-03 | 5 | 2 | 1 | 8 | 1 | 172 |
+| last60d | 2026-08-04 | 7 | 8 | 1 | 12 | 2 | 265 |
+| 90d | 2026-07-05 | 15 | 11 | 1 | 22 | 2 | 505 |
+| last180d | 2026-04-06 | 24 | 12 | 1 | 28 | 2 | 1493 |
+| 360d | 2025-10-08 | 34 | 18 | 1 | 98 | 2 | 2006 |
+| last720d | 2024-10-13 | 52 | 99 | 1 | 232 | 2 | 3119 |
 
 ## Release assets
 
 | Asset | Size | Target |
 |-------|-----:|--------|
 | [kew-4.3.8-windows-x64.exe](https://github.com/ravachol/kew/releases/download/v4.3.8/kew-4.3.8-windows-x64.exe) | 2.8 MiB | `native/win/x64` |
+| [kew-flatpak-x86_64.zip](https://github.com/ravachol/kew/releases/download/v4.3.8/kew-flatpak-x86_64.zip) | 1.6 MiB | `other` |
 
 ## Improve this data
 
@@ -70,4 +71,4 @@ Install metadata for kew lives in the [x-cmd/install](https://github.com/x-cmd/i
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261002.yml` · 2026-10-02T06:30:23Z._
+_Snapshot: `data/card/261003.yml` · 2026-10-03T06:09:10Z._
