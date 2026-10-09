@@ -14,12 +14,12 @@ x install kew
 
 ## Code insight
 
-Total: **136,166** lines of code across **141** files in the top 5 languages.
+Total: **136,248** lines of code across **141** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| CHeader | 98,903 | 21,617 | 17,882 | 78 |
-| C | 34,215 | 2,120 | 8,737 | 58 |
+| CHeader | 98,992 | 21,617 | 17,893 | 78 |
+| C | 34,208 | 2,120 | 8,737 | 58 |
 | Cpp | 2,138 | 153 | 559 | 3 |
 | Makefile | 386 | 51 | 78 | 1 |
 | ObjectiveC | 208 | 9 | 31 | 1 |
@@ -38,22 +38,22 @@ Total: **136,166** lines of code across **141** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 3,141 · **Forks**: 109 · **Open issues**: 363 · **Contributors**: 55
+- **Stars**: 3,144 · **Forks**: 110 · **Open issues**: 364 · **Contributors**: 56
 
 ## Totals (cumulative)
 
-- **Releases**: 92 · **Merged PRs**: 132 · **Open PRs**: 0 · **Closed issues**: 362 · **Open issues**: 1 · **Commits**: 3749
+- **Releases**: 92 · **Merged PRs**: 133 · **Open PRs**: 0 · **Closed issues**: 362 · **Open issues**: 2 · **Commits**: 3767
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-08 | 5 | 3 | 0 | 11 | 0 | 192 |
-| last60d | 2026-08-09 | 7 | 9 | 0 | 15 | 1 | 313 |
-| 90d | 2026-07-10 | 14 | 14 | 0 | 25 | 1 | 484 |
-| last180d | 2026-04-11 | 24 | 15 | 0 | 31 | 1 | 1549 |
-| 360d | 2025-10-13 | 33 | 20 | 0 | 96 | 1 | 2009 |
-| last720d | 2024-10-18 | 51 | 102 | 0 | 235 | 1 | 3138 |
+| 30d | 2026-09-09 | 5 | 4 | 0 | 10 | 1 | 205 |
+| last60d | 2026-08-10 | 7 | 10 | 0 | 15 | 2 | 326 |
+| 90d | 2026-07-11 | 14 | 15 | 0 | 25 | 2 | 497 |
+| last180d | 2026-04-12 | 24 | 16 | 0 | 31 | 2 | 1562 |
+| 360d | 2025-10-14 | 33 | 21 | 0 | 94 | 2 | 2022 |
+| last720d | 2024-10-19 | 51 | 103 | 0 | 235 | 2 | 3154 |
 
 ## Release assets
 
@@ -71,4 +71,4 @@ Install metadata for kew lives in the [x-cmd/install](https://github.com/x-cmd/i
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261008.yml` · 2026-10-08T06:57:36Z._
+_Snapshot: `data/card/261009.yml` · 2026-10-09T07:16:19Z._
