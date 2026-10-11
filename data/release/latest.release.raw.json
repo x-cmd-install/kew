@@ -33,13 +33,13 @@
   "immutable": false,
   "prerelease": false,
   "created_at": "2026-09-26T16:20:35Z",
-  "updated_at": "2026-10-03T10:52:01Z",
+  "updated_at": "2026-10-10T18:42:31Z",
   "published_at": "2026-09-26T16:21:15Z",
   "assets": [
     {
-      "url": "https://api.github.com/repos/ravachol/kew/releases/assets/591158149",
-      "id": 591158149,
-      "node_id": "RA_kwDOJkBsTc4jPFuF",
+      "url": "https://api.github.com/repos/ravachol/kew/releases/assets/628716246",
+      "id": 628716246,
+      "node_id": "RA_kwDOJkBsTc4leXLW",
       "name": "kew-4.3.8-windows-x64.exe",
       "label": "",
       "uploader": {
@@ -65,11 +65,11 @@
       },
       "content_type": "application/x-msdos-program",
       "state": "uploaded",
-      "size": 2885964,
-      "digest": "sha256:6225151008d944d6bc7b93e163bae053b1b9bd078442068f38b769a30a525e6a",
-      "download_count": 90,
-      "created_at": "2026-09-26T17:58:52Z",
-      "updated_at": "2026-09-26T17:58:52Z",
+      "size": 7819734,
+      "digest": "sha256:c4e1766da9148d609dc2d629ac47fd0ea1725ac1b8c25e7f15d9ebd768456bdb",
+      "download_count": 3,
+      "created_at": "2026-10-10T18:42:31Z",
+      "updated_at": "2026-10-10T18:42:31Z",
       "browser_download_url": "https://github.com/ravachol/kew/releases/download/v4.3.8/kew-4.3.8-windows-x64.exe"
     },
     {
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 1837104,
       "digest": "sha256:05272dc46224e9b54672d9c5e60e5bb037585328c8dc7c0d72937c6c80eabc42",
-      "download_count": 31,
+      "download_count": 34,
       "created_at": "2026-10-03T10:52:00Z",
       "updated_at": "2026-10-03T10:52:01Z",
       "browser_download_url": "https://github.com/ravachol/kew/releases/download/v4.3.8/kew.flatpak"
