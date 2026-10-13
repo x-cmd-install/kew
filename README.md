@@ -33,27 +33,27 @@ Total: **136,932** lines of code across **142** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v4.4.0` (2026-10-11)
-- **Last commit**: 2026-10-11
+- **Last commit**: 2026-10-13
 - **Assets in release**: 2
 
 ## Popularity
 
-- **Stars**: 3,154 · **Forks**: 110 · **Open issues**: 365 · **Contributors**: 56
+- **Stars**: 3,157 · **Forks**: 110 · **Open issues**: 365 · **Contributors**: 56
 
 ## Totals (cumulative)
 
-- **Releases**: 93 · **Merged PRs**: 133 · **Open PRs**: 0 · **Closed issues**: 362 · **Open issues**: 3 · **Commits**: 3821
+- **Releases**: 93 · **Merged PRs**: 133 · **Open PRs**: 0 · **Closed issues**: 362 · **Open issues**: 3 · **Commits**: 3822
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-12 | 6 | 4 | 0 | 9 | 1 | 231 |
-| last60d | 2026-08-13 | 8 | 10 | 0 | 16 | 2 | 367 |
-| 90d | 2026-07-14 | 13 | 15 | 0 | 24 | 2 | 421 |
-| last180d | 2026-04-15 | 25 | 16 | 0 | 32 | 2 | 1601 |
-| 360d | 2025-10-17 | 34 | 21 | 0 | 93 | 2 | 2018 |
-| last720d | 2024-10-22 | 52 | 103 | 0 | 234 | 3 | 3205 |
+| 30d | 2026-09-13 | 5 | 4 | 0 | 9 | 1 | 0 |
+| last60d | 2026-08-14 | 8 | 10 | 0 | 16 | 2 | 0 |
+| 90d | 2026-07-15 | 13 | 15 | 0 | 24 | 2 | 0 |
+| last180d | 2026-04-16 | 25 | 16 | 0 | 32 | 2 | 0 |
+| 360d | 2025-10-18 | 32 | 21 | 0 | 92 | 2 | 0 |
+| last720d | 2024-10-23 | 52 | 103 | 0 | 234 | 3 | 3206 |
 
 ## Release assets
 
@@ -71,4 +71,4 @@ Install metadata for kew lives in the [x-cmd/install](https://github.com/x-cmd/i
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261012.yml` · 2026-10-12T06:53:36Z._
+_Snapshot: `data/card/261013.yml` · 2026-10-13T07:49:17Z._
