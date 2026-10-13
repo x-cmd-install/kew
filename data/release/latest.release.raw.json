@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 7824182,
       "digest": "sha256:ec83720020df3b4a45058c03cb8baea4d63932c31c97051833b9d2f47f9aced7",
-      "download_count": 5,
+      "download_count": 30,
       "created_at": "2026-10-11T18:08:07Z",
       "updated_at": "2026-10-11T18:08:07Z",
       "browser_download_url": "https://github.com/ravachol/kew/releases/download/v4.4.0/kew-4.4.0-windows-x64.exe"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 1837096,
       "digest": "sha256:f77a1a12145b8da3209505c8e98e7680c0a7aefcf6314668bee7fdcea2da856a",
-      "download_count": 5,
+      "download_count": 11,
       "created_at": "2026-10-11T18:08:36Z",
       "updated_at": "2026-10-11T18:08:37Z",
       "browser_download_url": "https://github.com/ravachol/kew/releases/download/v4.4.0/kew.flatpak"
@@ -115,11 +115,11 @@
   "discussion_url": "https://github.com/ravachol/kew/discussions/604",
   "reactions": {
     "url": "https://api.github.com/repos/ravachol/kew/releases/409832313/reactions",
-    "total_count": 3,
+    "total_count": 4,
     "+1": 0,
     "-1": 0,
     "laugh": 0,
-    "hooray": 3,
+    "hooray": 4,
     "confused": 0,
     "heart": 0,
     "rocket": 0,
