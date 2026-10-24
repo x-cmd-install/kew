@@ -1,7 +1,43 @@
-- repo: nix_stable_25_05
+- repo: raspbian_stable
+  subrepo: main
   srcname: kew
+  binnames:
+    - kew
   visiblename: kew
   version: 3.2.0
+  origversion: 3.2.0+ds-1
+  status: outdated
+  maintainers:
+    - werdahias@debian.org
+  categories:
+    - misc
+- repo: raspbian_testing
+  subrepo: main
+  srcname: kew
+  binnames:
+    - kew
+  visiblename: kew
+  version: 4.2.7
+  origversion: 4.2.7+ds-1
+  status: outdated
+  maintainers:
+    - werdahias@debian.org
+  categories:
+    - misc
+- repo: slackbuilds
+  srcname: audio/kew
+  visiblename: audio/kew
+  version: 4.4.1
+  origversion: null
+  status: newest
+  maintainers:
+    - boxjake.romero@protonmail.com
+  categories:
+    - audio
+- repo: nix_stable_25_11
+  srcname: kew
+  visiblename: kew
+  version: 3.7.3
   origversion: null
   status: outdated
   summary: Command-line music player for Linux
@@ -58,7 +94,7 @@
   binname: kew
   visiblename: kew
   version: 4.4.1
-  origversion: 4.4.1-1
+  origversion: 4.4.1-2
   status: newest
   summary: Music for the Shell
   licenses:
@@ -259,7 +295,7 @@
   binname: kew
   visiblename: kew
   version: 4.4.1
-  origversion: 4.4.1-1
+  origversion: 4.4.1-2
   status: newest
   summary: Music for the Shell
   licenses:
@@ -286,10 +322,10 @@
     - riches_tweaks0o@icloud.com
   licenses:
     - GPL-2.0-only
-- repo: nix_stable_25_11
+- repo: nix_stable_25_05
   srcname: kew
   visiblename: kew
-  version: 3.7.3
+  version: 3.2.0
   origversion: null
   status: outdated
   summary: Command-line music player for Linux
@@ -348,9 +384,9 @@
     - kew-debugsource
     - kew-lang
   visiblename: kew
-  version: 4.4.0
-  origversion: 4.4.0-86.1
-  status: outdated
+  version: 4.4.1
+  origversion: 4.4.1-89.1
+  status: newest
   summary: A command-line music player
   licenses:
     - GPL-2.0-only
@@ -368,7 +404,7 @@
   licenses:
     - GPL-2.0-or-later
 - repo: parrot
-  subrepo: parrot-updates/main
+  subrepo: parrot/main
   srcname: kew
   binnames:
     - kew
@@ -381,7 +417,7 @@
   categories:
     - misc
 - repo: parrot
-  subrepo: parrot/main
+  subrepo: parrot-updates/main
   srcname: kew
   binnames:
     - kew
@@ -442,42 +478,6 @@
     - werdahias@debian.org
   categories:
     - sound
-- repo: raspbian_stable
-  subrepo: main
-  srcname: kew
-  binnames:
-    - kew
-  visiblename: kew
-  version: 3.2.0
-  origversion: 3.2.0+ds-1
-  status: outdated
-  maintainers:
-    - werdahias@debian.org
-  categories:
-    - misc
-- repo: raspbian_testing
-  subrepo: main
-  srcname: kew
-  binnames:
-    - kew
-  visiblename: kew
-  version: 4.2.7
-  origversion: 4.2.7+ds-1
-  status: outdated
-  maintainers:
-    - werdahias@debian.org
-  categories:
-    - misc
-- repo: slackbuilds
-  srcname: audio/kew
-  visiblename: audio/kew
-  version: 4.4.1
-  origversion: null
-  status: newest
-  maintainers:
-    - boxjake.romero@protonmail.com
-  categories:
-    - audio
 - repo: solus
   srcname: kew
   binname: kew
