@@ -33,7 +33,7 @@
   "immutable": false,
   "prerelease": false,
   "created_at": "2026-10-13T12:20:16Z",
-  "updated_at": "2026-10-23T00:15:54Z",
+  "updated_at": "2026-10-27T22:05:10Z",
   "published_at": "2026-10-13T12:21:39Z",
   "assets": [
     {
@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 7825115,
       "digest": "sha256:d7d3ef4f30c55d4d68d0ca2d28847853edefb7aff7452bb0ed66edf12c13d643",
-      "download_count": 76,
+      "download_count": 84,
       "created_at": "2026-10-13T12:25:21Z",
       "updated_at": "2026-10-13T12:25:22Z",
       "browser_download_url": "https://github.com/ravachol/kew/releases/download/v4.4.1/kew-4.4.1-windows-x64.exe"
@@ -109,9 +109,9 @@
       "browser_download_url": "https://github.com/ravachol/kew/releases/download/v4.4.1/kew-old-history.bundle"
     },
     {
-      "url": "https://api.github.com/repos/ravachol/kew/releases/assets/636960695",
-      "id": 636960695,
-      "node_id": "RA_kwDOJkBsTc4l9z-3",
+      "url": "https://api.github.com/repos/ravachol/kew/releases/assets/683016774",
+      "id": 683016774,
+      "node_id": "RA_kwDOJkBsTc4otgJG",
       "name": "kew.flatpak",
       "label": "",
       "uploader": {
@@ -137,11 +137,11 @@
       },
       "content_type": "application/vnd.flatpak",
       "state": "uploaded",
-      "size": 1836400,
-      "digest": "sha256:401372be8d760f0bb7d4798b94c6261db14584f573881cf8715707f09556c892",
-      "download_count": 29,
-      "created_at": "2026-10-13T12:25:37Z",
-      "updated_at": "2026-10-13T12:25:38Z",
+      "size": 1849640,
+      "digest": "sha256:4c0312f13e1246a1796a5afd7303483ab05fa5697d0e82b47d8ee7e630b59964",
+      "download_count": 2,
+      "created_at": "2026-10-27T22:05:09Z",
+      "updated_at": "2026-10-27T22:05:10Z",
       "browser_download_url": "https://github.com/ravachol/kew/releases/download/v4.4.1/kew.flatpak"
     },
     {
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 3301,
       "digest": "sha256:55ee680f2f223e8ad7a8fe4896200c0d594e4560a5c9a211e23cf0d2c0fcd4c9",
-      "download_count": 3,
+      "download_count": 4,
       "created_at": "2026-10-22T23:22:23Z",
       "updated_at": "2026-10-22T23:22:24Z",
       "browser_download_url": "https://github.com/ravachol/kew/releases/download/v4.4.1/removed-paths.txt"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 2569,
       "digest": "sha256:86295d70338c493c201f8a12a73a7e5af78f8d2dea0834c015bd0fc27e52726a",
-      "download_count": 1,
+      "download_count": 2,
       "created_at": "2026-10-22T23:22:17Z",
       "updated_at": "2026-10-22T23:22:17Z",
       "browser_download_url": "https://github.com/ravachol/kew/releases/download/v4.4.1/verify-tags.sh"
