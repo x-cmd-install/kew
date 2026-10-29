@@ -32,42 +32,39 @@ Total: **137,997** lines of code across **144** files in the top 5 languages.
 
 ## Release
 
-- **Latest**: `v4.4.1` (2026-10-13)
-- **Last commit**: 2026-10-27
-- **Assets in release**: 5
+- **Latest**: `v4.4.2` (2026-10-28)
+- **Last commit**: 2026-10-28
+- **Assets in release**: 2
 
 ## Popularity
 
-- **Stars**: 3,182 · **Forks**: 110 · **Open issues**: 371 · **Contributors**: 58
+- **Stars**: 3,181 · **Forks**: 110 · **Open issues**: 371 · **Contributors**: 58
 
 ## Totals (cumulative)
 
-- **Releases**: 94 · **Merged PRs**: 133 · **Open PRs**: 0 · **Closed issues**: 364 · **Open issues**: 7 · **Commits**: 3801
+- **Releases**: 95 · **Merged PRs**: 133 · **Open PRs**: 0 · **Closed issues**: 368 · **Open issues**: 3 · **Commits**: 3808
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-28 | 2 | 4 | 0 | 8 | 5 | 237 |
-| last60d | 2026-08-29 | 9 | 7 | 0 | 14 | 5 | 400 |
-| 90d | 2026-07-30 | 9 | 12 | 0 | 18 | 6 | 477 |
-| last180d | 2026-05-01 | 25 | 16 | 0 | 33 | 6 | 1572 |
-| 360d | 2025-11-02 | 30 | 20 | 0 | 87 | 6 | 1898 |
-| last720d | 2024-11-07 | 52 | 102 | 0 | 230 | 7 | 3162 |
+| 30d | 2026-09-29 | 3 | 4 | 0 | 11 | 1 | 244 |
+| last60d | 2026-08-30 | 10 | 7 | 0 | 18 | 1 | 407 |
+| 90d | 2026-07-31 | 10 | 12 | 0 | 22 | 2 | 484 |
+| last180d | 2026-05-02 | 26 | 16 | 0 | 36 | 2 | 1579 |
+| 360d | 2025-11-03 | 31 | 20 | 0 | 91 | 2 | 1905 |
+| last720d | 2024-11-08 | 53 | 102 | 0 | 234 | 3 | 3165 |
 
 ## Release assets
 
 | Asset | Size | Target |
 |-------|-----:|--------|
-| [kew-4.4.1-windows-x64.exe](https://github.com/ravachol/kew/releases/download/v4.4.1/kew-4.4.1-windows-x64.exe) | 7.5 MiB | `native/win/x64` |
-| [kew-old-history.bundle](https://github.com/ravachol/kew/releases/download/v4.4.1/kew-old-history.bundle) | 262.0 MiB | `other` |
-| [kew.flatpak](https://github.com/ravachol/kew/releases/download/v4.4.1/kew.flatpak) | 1.8 MiB | `other` |
-| [removed-paths.txt](https://github.com/ravachol/kew/releases/download/v4.4.1/removed-paths.txt) | 3.2 KiB | `other` |
-| [verify-tags.sh](https://github.com/ravachol/kew/releases/download/v4.4.1/verify-tags.sh) | 2.5 KiB | `other` |
+| [kew-4.4.2-windows-x64.exe](https://github.com/ravachol/kew/releases/download/v4.4.2/kew-4.4.2-windows-x64.exe) | 7.5 MiB | `native/win/x64` |
+| [kew.flatpak](https://github.com/ravachol/kew/releases/download/v4.4.2/kew.flatpak) | 1.8 MiB | `other` |
 
 ## Distribution status
 
-Reported by **54** distros on [repology.org](https://repology.org/project/kew). **17** are ✅ on the latest upstream release, **31** are ⚠️ on an older version.
+Reported by **55** distros on [repology.org](https://repology.org/project/kew). **4** are ✅ on the latest upstream release, **45** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
@@ -75,12 +72,12 @@ Reported by **54** distros on [repology.org](https://repology.org/project/kew). 
 | Debian 13 | `3.2.0` | ⚠️ outdated |
 | Ubuntu 26.04 LTS | `3.7.3` | ⚠️ outdated |
 | Ubuntu 24.04 LTS | `2.4.2` | ⚠️ outdated |
-| Arch | `4.4.1` | ✅ latest |
-| Homebrew | `4.4.1` | ✅ latest |
-| Nix unstable | `4.4.1` | ✅ latest |
+| Arch | `4.4.1` | ⚠️ outdated |
+| Homebrew | `4.4.2` | ✅ latest |
+| Nix unstable | `4.4.1` | ⚠️ outdated |
 | Void | `4.3.8` | ⚠️ outdated |
 | Alpine edge | `4.2.7` | ⚠️ outdated |
-| openSUSE Tumbleweed | `4.4.1` | ✅ latest |
+| openSUSE Tumbleweed | `4.4.1` | ⚠️ outdated |
 
 ## Improve this data
 
@@ -91,4 +88,4 @@ Install metadata for kew lives in the [x-cmd/install](https://github.com/x-cmd/i
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261028.yml` · 2026-10-28T06:34:21Z._
+_Snapshot: `data/card/261029.yml` · 2026-10-29T06:39:05Z._
