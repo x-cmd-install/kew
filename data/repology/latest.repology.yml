@@ -1,3 +1,83 @@
+- repo: nix_stable_24_05
+  srcname: kew
+  visiblename: kew
+  version: 1.5.2
+  origversion: null
+  status: outdated
+  summary: A command-line music player for Linux
+  maintainers:
+    - riches_tweaks0o@icloud.com
+  licenses:
+    - GPL-2.0-only
+- repo: nix_stable_24_11
+  srcname: kew
+  visiblename: kew
+  version: 1.5.2
+  origversion: null
+  status: outdated
+  summary: Command-line music player for Linux
+  maintainers:
+    - riches_tweaks0o@icloud.com
+  licenses:
+    - GPL-2.0-only
+- repo: nix_stable_25_11
+  srcname: kew
+  visiblename: kew
+  version: 3.7.3
+  origversion: null
+  status: outdated
+  summary: Command-line music player for Linux
+  maintainers:
+    - riches_tweaks0o@icloud.com
+    - m@matteopacini.me
+  licenses:
+    - GPL-2.0-only
+- repo: nix_stable_25_05
+  srcname: kew
+  visiblename: kew
+  version: 3.2.0
+  origversion: null
+  status: outdated
+  summary: Command-line music player for Linux
+  maintainers:
+    - riches_tweaks0o@icloud.com
+    - m@matteopacini.me
+  licenses:
+    - GPL-2.0-only
+- repo: aur
+  srcname: kew-git
+  binname: kew-git
+  visiblename: kew-git
+  version: v4.4.1.e7b94ca0
+  origversion: v4.4.1.e7b94ca0-1
+  status: rolling
+  summary: A command-line music player
+  maintainers:
+    - arcpie@aur
+  licenses:
+    - GPL2
+- repo: manjaro_stable
+  subrepo: extra
+  srcname: kew
+  binname: kew
+  visiblename: kew
+  version: 4.3.2
+  origversion: 4.3.2-1
+  status: outdated
+  summary: Music for the Shell
+  licenses:
+    - GPL-2.0-only
+- repo: manjaro_testing
+  subrepo: extra
+  srcname: kew
+  binname: kew
+  visiblename: kew
+  version: 4.3.8
+  origversion: 4.3.8-1
+  status: outdated
+  summary: Music for the Shell
+  licenses:
+    - GPL-2.0-only
 - repo: alpine_edge
   subrepo: testing
   srcname: kew
@@ -62,18 +142,17 @@
   summary: Music for the Shell
   licenses:
     - GPL-2.0-or-later
-- repo: aur
-  srcname: kew-git
-  binname: kew-git
-  visiblename: kew-git
-  version: v4.4.1.e7b94ca0
-  origversion: v4.4.1.e7b94ca0-1
-  status: rolling
-  summary: A command-line music player
-  maintainers:
-    - arcpie@aur
+- repo: manjaro_unstable
+  subrepo: extra
+  srcname: kew
+  binname: kew
+  visiblename: kew
+  version: 4.4.1
+  origversion: 4.4.1-2
+  status: outdated
+  summary: Music for the Shell
   licenses:
-    - GPL2
+    - GPL-2.0-or-later
 - repo: debian_13
   subrepo: trixie/main
   srcname: kew
@@ -117,9 +196,9 @@
   srcname: multimedia/kew
   binname: kew
   visiblename: multimedia/kew
-  version: 4.4.1
+  version: 4.4.2
   origversion: null
-  status: outdated
+  status: newest
   summary: Command-line music player with the terminal user interface (TUI)
   maintainers:
     - yuri@freebsd.org
@@ -230,85 +309,6 @@
     - GPL-2 MIT || ( Unlicense MIT-0 )
   categories:
     - media-sound
-- repo: manjaro_stable
-  subrepo: extra
-  srcname: kew
-  binname: kew
-  visiblename: kew
-  version: 4.3.2
-  origversion: 4.3.2-1
-  status: outdated
-  summary: Music for the Shell
-  licenses:
-    - GPL-2.0-only
-- repo: manjaro_testing
-  subrepo: extra
-  srcname: kew
-  binname: kew
-  visiblename: kew
-  version: 4.3.8
-  origversion: 4.3.8-1
-  status: outdated
-  summary: Music for the Shell
-  licenses:
-    - GPL-2.0-only
-- repo: manjaro_unstable
-  subrepo: extra
-  srcname: kew
-  binname: kew
-  visiblename: kew
-  version: 4.4.1
-  origversion: 4.4.1-2
-  status: outdated
-  summary: Music for the Shell
-  licenses:
-    - GPL-2.0-or-later
-- repo: nix_stable_24_05
-  srcname: kew
-  visiblename: kew
-  version: 1.5.2
-  origversion: null
-  status: outdated
-  summary: A command-line music player for Linux
-  maintainers:
-    - riches_tweaks0o@icloud.com
-  licenses:
-    - GPL-2.0-only
-- repo: nix_stable_24_11
-  srcname: kew
-  visiblename: kew
-  version: 1.5.2
-  origversion: null
-  status: outdated
-  summary: Command-line music player for Linux
-  maintainers:
-    - riches_tweaks0o@icloud.com
-  licenses:
-    - GPL-2.0-only
-- repo: nix_stable_25_05
-  srcname: kew
-  visiblename: kew
-  version: 3.2.0
-  origversion: null
-  status: outdated
-  summary: Command-line music player for Linux
-  maintainers:
-    - riches_tweaks0o@icloud.com
-    - m@matteopacini.me
-  licenses:
-    - GPL-2.0-only
-- repo: nix_stable_25_11
-  srcname: kew
-  visiblename: kew
-  version: 3.7.3
-  origversion: null
-  status: outdated
-  summary: Command-line music player for Linux
-  maintainers:
-    - riches_tweaks0o@icloud.com
-    - m@matteopacini.me
-  licenses:
-    - GPL-2.0-only
 - repo: nix_stable_26_05
   srcname: kew
   visiblename: kew
@@ -432,9 +432,9 @@
   srcname: audio/kew
   binname: kew
   visiblename: audio/kew
-  version: 4.4.1
+  version: 4.4.2
   origversion: null
-  status: outdated
+  status: newest
   summary: Terminal music player with album art
   maintainers:
     - ktnb@netbsd.org
@@ -521,9 +521,9 @@
   srcname: kew
   binname: kew
   visiblename: kew
-  version: 4.4.1
+  version: 4.4.2
   origversion: null
-  status: outdated
+  status: newest
   summary: Music for the Shell
   maintainers:
     - termux@github
@@ -531,9 +531,9 @@
   srcname: kew
   binname: kew
   visiblename: kew
-  version: 4.4.1
-  origversion: 4.4.1-1.fcrawhide
-  status: outdated
+  version: 4.4.2
+  origversion: 4.4.2-1.fcrawhide
+  status: newest
   summary: Music for the Shell
   maintainers:
     - owen@fyralabs.com
@@ -545,9 +545,9 @@
   srcname: kew
   binname: kew
   visiblename: kew
-  version: 4.4.1
-  origversion: 4.4.1-1.fcrawhide
-  status: outdated
+  version: 4.4.2
+  origversion: 4.4.2-1.fcrawhide
+  status: newest
   summary: Music for the Shell
   maintainers:
     - owen@fyralabs.com
@@ -559,9 +559,9 @@
   srcname: kew
   binname: kew-debuginfo
   visiblename: kew-debuginfo
-  version: 4.4.1
-  origversion: 4.4.1-1.fcrawhide
-  status: outdated
+  version: 4.4.2
+  origversion: 4.4.2-1.fcrawhide
+  status: newest
   summary: Debug information for package kew
   maintainers:
     - owen@fyralabs.com
@@ -573,9 +573,9 @@
   srcname: kew
   binname: kew-debuginfo
   visiblename: kew-debuginfo
-  version: 4.4.1
-  origversion: 4.4.1-1.fcrawhide
-  status: outdated
+  version: 4.4.2
+  origversion: 4.4.2-1.fcrawhide
+  status: newest
   summary: Debug information for package kew
   maintainers:
     - owen@fyralabs.com
@@ -587,9 +587,9 @@
   srcname: kew
   binname: kew-debugsource
   visiblename: kew-debugsource
-  version: 4.4.1
-  origversion: 4.4.1-1.fcrawhide
-  status: outdated
+  version: 4.4.2
+  origversion: 4.4.2-1.fcrawhide
+  status: newest
   summary: Debug sources for package kew
   maintainers:
     - owen@fyralabs.com
@@ -601,9 +601,9 @@
   srcname: kew
   binname: kew-debugsource
   visiblename: kew-debugsource
-  version: 4.4.1
-  origversion: 4.4.1-1.fcrawhide
-  status: outdated
+  version: 4.4.2
+  origversion: 4.4.2-1.fcrawhide
+  status: newest
   summary: Debug sources for package kew
   maintainers:
     - owen@fyralabs.com
