@@ -38,22 +38,22 @@ Total: **138,994** lines of code across **144** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 3,184 · **Forks**: 110 · **Open issues**: 371 · **Contributors**: 58
+- **Stars**: 3,185 · **Forks**: 110 · **Open issues**: 372 · **Contributors**: 58
 
 ## Totals (cumulative)
 
-- **Releases**: 95 · **Merged PRs**: 133 · **Open PRs**: 0 · **Closed issues**: 368 · **Open issues**: 3 · **Commits**: 3820
+- **Releases**: 95 · **Merged PRs**: 133 · **Open PRs**: 0 · **Closed issues**: 368 · **Open issues**: 4 · **Commits**: 3820
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-01 | 3 | 3 | 0 | 9 | 1 | 254 |
-| last60d | 2026-09-01 | 10 | 6 | 0 | 18 | 1 | 417 |
-| 90d | 2026-08-02 | 10 | 12 | 0 | 22 | 2 | 494 |
-| last180d | 2026-05-04 | 26 | 16 | 0 | 35 | 2 | 1589 |
-| 360d | 2025-11-05 | 31 | 20 | 0 | 88 | 2 | 1915 |
-| last720d | 2024-11-10 | 53 | 102 | 0 | 234 | 3 | 3175 |
+| 30d | 2026-10-02 | 3 | 3 | 0 | 9 | 2 | 152 |
+| last60d | 2026-09-02 | 8 | 6 | 0 | 18 | 2 | 383 |
+| 90d | 2026-08-03 | 10 | 12 | 0 | 22 | 3 | 484 |
+| last180d | 2026-05-05 | 26 | 15 | 0 | 35 | 3 | 1578 |
+| 360d | 2025-11-06 | 31 | 20 | 0 | 88 | 3 | 1906 |
+| last720d | 2024-11-11 | 53 | 102 | 0 | 234 | 4 | 3175 |
 
 ## Release assets
 
@@ -88,4 +88,4 @@ Install metadata for kew lives in the [x-cmd/install](https://github.com/x-cmd/i
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261031.yml` · 2026-10-31T06:28:19Z._
+_Snapshot: `data/card/261101.yml` · 2026-11-01T07:06:40Z._
