@@ -1,43 +1,16 @@
-- repo: pkgsrc_current
-  srcname: audio/kew
+- repo: manjaro_unstable
+  subrepo: extra
+  srcname: kew
   binname: kew
-  visiblename: audio/kew
-  version: 4.4.2
-  origversion: null
-  status: newest
-  summary: Terminal music player with album art
-  maintainers:
-    - ktnb@netbsd.org
-  categories:
-    - audio
-- repo: pureos_landing
-  subrepo: landing/main
-  srcname: kew
-  binnames:
-    - kew
   visiblename: kew
-  version: 3.2.0
-  origversion: 3.2.0+ds-1
+  version: 4.4.1
+  origversion: 4.4.1-2
   status: outdated
-  maintainers:
-    - werdahias@debian.org
-  categories:
-    - sound
-- repo: raspbian_stable
-  subrepo: main
-  srcname: kew
-  binnames:
-    - kew
-  visiblename: kew
-  version: 3.2.0
-  origversion: 3.2.0+ds-1
-  status: outdated
-  maintainers:
-    - werdahias@debian.org
-  categories:
-    - misc
-- repo: raspbian_testing
-  subrepo: main
+  summary: Music for the Shell
+  licenses:
+    - GPL-2.0-or-later
+- repo: debian_unstable
+  subrepo: sid/main
   srcname: kew
   binnames:
     - kew
@@ -49,43 +22,19 @@
     - werdahias@debian.org
   categories:
     - misc
-- repo: terra_rawhide
+- repo: devuan_unstable
+  subrepo: unstable/main
   srcname: kew
-  binname: kew-debuginfo
-  visiblename: kew-debuginfo
-  version: 4.4.2
-  origversion: 4.4.2-1.fcrawhide
-  status: newest
-  summary: Debug information for package kew
-  maintainers:
-    - owen@fyralabs.com
-  licenses:
-    - GPL-2.0-or-later
-  categories:
-    - Development/Debug
-- repo: slackbuilds
-  srcname: audio/kew
-  visiblename: audio/kew
-  version: 4.4.1
-  origversion: null
+  binnames:
+    - kew
+  visiblename: kew
+  version: 4.2.7
+  origversion: 4.2.7+ds-1
   status: outdated
   maintainers:
-    - boxjake.romero@protonmail.com
+    - werdahias@debian.org
   categories:
-    - audio
-- repo: gentoo_ovl_guru
-  srcname: media-sound/kew
-  visiblename: media-sound/kew
-  version: 4.1.2
-  origversion: null
-  status: outdated
-  summary: kew (/kjuː/) is a command-line music player for Linux.
-  maintainers:
-    - emergeviolet@protonmail.com
-  licenses:
-    - GPL-2 MIT || ( Unlicense MIT-0 )
-  categories:
-    - media-sound
+    - misc
 - repo: alpine_edge
   subrepo: testing
   srcname: kew
@@ -164,32 +113,18 @@
     - werdahias@debian.org
   categories:
     - misc
-- repo: debian_unstable
-  subrepo: sid/main
+- repo: nix_stable_25_11
   srcname: kew
-  binnames:
-    - kew
   visiblename: kew
-  version: 4.2.7
-  origversion: 4.2.7+ds-1
+  version: 3.7.3
+  origversion: null
   status: outdated
+  summary: Command-line music player for Linux
   maintainers:
-    - werdahias@debian.org
-  categories:
-    - misc
-- repo: devuan_unstable
-  subrepo: unstable/main
-  srcname: kew
-  binnames:
-    - kew
-  visiblename: kew
-  version: 4.2.7
-  origversion: 4.2.7+ds-1
-  status: outdated
-  maintainers:
-    - werdahias@debian.org
-  categories:
-    - misc
+    - riches_tweaks0o@icloud.com
+    - m@matteopacini.me
+  licenses:
+    - GPL-2.0-only
 - repo: freebsd
   srcname: multimedia/kew
   binname: kew
@@ -215,20 +150,19 @@
     - GPL-2 MIT || ( Unlicense MIT-0 )
   categories:
     - media-sound
-- repo: terra_rawhide
-  srcname: kew
-  binname: kew
-  visiblename: kew
-  version: 4.4.2
-  origversion: 4.4.2-1.fcrawhide
-  status: newest
-  summary: Music for the Shell
+- repo: gentoo_ovl_guru
+  srcname: media-sound/kew
+  visiblename: media-sound/kew
+  version: 4.1.2
+  origversion: null
+  status: outdated
+  summary: kew (/kjuː/) is a command-line music player for Linux.
   maintainers:
-    - owen@fyralabs.com
+    - emergeviolet@protonmail.com
   licenses:
-    - GPL-2.0-or-later
+    - GPL-2 MIT || ( Unlicense MIT-0 )
   categories:
-    - Unspecified
+    - media-sound
 - repo: gentoo_ovl_guru
   srcname: media-sound/kew
   visiblename: media-sound/kew
@@ -269,18 +203,6 @@
     - GPL-2 MIT || ( Unlicense MIT-0 )
   categories:
     - media-sound
-- repo: pkgsrc_2026_3
-  srcname: audio/kew
-  binname: kew
-  visiblename: audio/kew
-  version: 4.3.4
-  origversion: null
-  status: outdated
-  summary: Terminal music player with album art
-  maintainers:
-    - ktnb@netbsd.org
-  categories:
-    - audio
 - repo: liguros_develop
   srcname: media-sound/kew
   visiblename: media-sound/kew
@@ -320,17 +242,6 @@
     - GPL-2 MIT || ( Unlicense MIT-0 )
   categories:
     - media-sound
-- repo: manjaro_unstable
-  subrepo: extra
-  srcname: kew
-  binname: kew
-  visiblename: kew
-  version: 4.4.1
-  origversion: 4.4.1-2
-  status: outdated
-  summary: Music for the Shell
-  licenses:
-    - GPL-2.0-or-later
 - repo: nix_stable_24_05
   srcname: kew
   visiblename: kew
@@ -365,18 +276,6 @@
     - m@matteopacini.me
   licenses:
     - GPL-2.0-only
-- repo: nix_stable_25_11
-  srcname: kew
-  visiblename: kew
-  version: 3.7.3
-  origversion: null
-  status: outdated
-  summary: Command-line music player for Linux
-  maintainers:
-    - riches_tweaks0o@icloud.com
-    - m@matteopacini.me
-  licenses:
-    - GPL-2.0-only
 - repo: nix_stable_26_05
   srcname: kew
   visiblename: kew
@@ -392,9 +291,9 @@
 - repo: nix_unstable
   srcname: kew
   visiblename: kew
-  version: 4.4.1
+  version: 4.4.2
   origversion: null
-  status: outdated
+  status: newest
   summary: Command-line music player for Linux
   maintainers:
     - riches_tweaks0o@icloud.com
@@ -447,7 +346,7 @@
   licenses:
     - GPL-2.0-or-later
 - repo: parrot
-  subrepo: parrot/main
+  subrepo: parrot-updates/main
   srcname: kew
   binnames:
     - kew
@@ -460,7 +359,7 @@
   categories:
     - misc
 - repo: parrot
-  subrepo: parrot-updates/main
+  subrepo: parrot/main
   srcname: kew
   binnames:
     - kew
@@ -482,6 +381,79 @@
   summary: Terminal music player with album art
   maintainers:
     - ktnb@netbsd.org
+  categories:
+    - audio
+- repo: pkgsrc_2026_3
+  srcname: audio/kew
+  binname: kew
+  visiblename: audio/kew
+  version: 4.3.4
+  origversion: null
+  status: outdated
+  summary: Terminal music player with album art
+  maintainers:
+    - ktnb@netbsd.org
+  categories:
+    - audio
+- repo: pkgsrc_current
+  srcname: audio/kew
+  binname: kew
+  visiblename: audio/kew
+  version: 4.4.2
+  origversion: null
+  status: newest
+  summary: Terminal music player with album art
+  maintainers:
+    - ktnb@netbsd.org
+  categories:
+    - audio
+- repo: pureos_landing
+  subrepo: landing/main
+  srcname: kew
+  binnames:
+    - kew
+  visiblename: kew
+  version: 3.2.0
+  origversion: 3.2.0+ds-1
+  status: outdated
+  maintainers:
+    - werdahias@debian.org
+  categories:
+    - sound
+- repo: raspbian_stable
+  subrepo: main
+  srcname: kew
+  binnames:
+    - kew
+  visiblename: kew
+  version: 3.2.0
+  origversion: 3.2.0+ds-1
+  status: outdated
+  maintainers:
+    - werdahias@debian.org
+  categories:
+    - misc
+- repo: raspbian_testing
+  subrepo: main
+  srcname: kew
+  binnames:
+    - kew
+  visiblename: kew
+  version: 4.2.7
+  origversion: 4.2.7+ds-1
+  status: outdated
+  maintainers:
+    - werdahias@debian.org
+  categories:
+    - misc
+- repo: slackbuilds
+  srcname: audio/kew
+  visiblename: audio/kew
+  version: 4.4.1
+  origversion: null
+  status: outdated
+  maintainers:
+    - boxjake.romero@protonmail.com
   categories:
     - audio
 - repo: solus
@@ -536,6 +508,34 @@
     - GPL-2.0-or-later
   categories:
     - Unspecified
+- repo: terra_rawhide
+  srcname: kew
+  binname: kew
+  visiblename: kew
+  version: 4.4.2
+  origversion: 4.4.2-1.fcrawhide
+  status: newest
+  summary: Music for the Shell
+  maintainers:
+    - owen@fyralabs.com
+  licenses:
+    - GPL-2.0-or-later
+  categories:
+    - Unspecified
+- repo: terra_rawhide
+  srcname: kew
+  binname: kew-debuginfo
+  visiblename: kew-debuginfo
+  version: 4.4.2
+  origversion: 4.4.2-1.fcrawhide
+  status: newest
+  summary: Debug information for package kew
+  maintainers:
+    - owen@fyralabs.com
+  licenses:
+    - GPL-2.0-or-later
+  categories:
+    - Development/Debug
 - repo: terra_rawhide
   srcname: kew
   binname: kew-debuginfo
