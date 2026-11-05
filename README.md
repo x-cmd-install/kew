@@ -38,7 +38,7 @@ Total: **138,989** lines of code across **144** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 3,188 · **Forks**: 110 · **Open issues**: 373 · **Contributors**: 58
+- **Stars**: 3,189 · **Forks**: 110 · **Open issues**: 373 · **Contributors**: 58
 
 ## Totals (cumulative)
 
@@ -48,12 +48,12 @@ Total: **138,989** lines of code across **144** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-05 | 3 | 2 | 0 | 8 | 3 | 154 |
-| last60d | 2026-09-05 | 8 | 4 | 0 | 18 | 3 | 385 |
-| 90d | 2026-08-06 | 10 | 12 | 0 | 22 | 4 | 486 |
-| last180d | 2026-05-08 | 26 | 15 | 0 | 35 | 4 | 1580 |
-| 360d | 2025-11-09 | 31 | 20 | 0 | 87 | 4 | 1908 |
-| last720d | 2024-11-14 | 53 | 102 | 0 | 233 | 5 | 3172 |
+| 30d | 2026-10-06 | 3 | 2 | 0 | 8 | 3 | 154 |
+| last60d | 2026-09-06 | 8 | 4 | 0 | 18 | 3 | 385 |
+| 90d | 2026-08-07 | 10 | 11 | 0 | 22 | 4 | 486 |
+| last180d | 2026-05-09 | 26 | 15 | 0 | 35 | 4 | 1580 |
+| 360d | 2025-11-10 | 31 | 20 | 0 | 87 | 4 | 1908 |
+| last720d | 2024-11-15 | 53 | 102 | 0 | 232 | 5 | 3171 |
 
 ## Release assets
 
@@ -64,7 +64,7 @@ Total: **138,989** lines of code across **144** files in the top 5 languages.
 
 ## Distribution status
 
-Reported by **52** distros on [repology.org](https://repology.org/project/kew). **14** are ✅ on the latest upstream release, **32** are ⚠️ on an older version.
+Reported by **52** distros on [repology.org](https://repology.org/project/kew). **15** are ✅ on the latest upstream release, **31** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
@@ -74,7 +74,7 @@ Reported by **52** distros on [repology.org](https://repology.org/project/kew). 
 | Ubuntu 24.04 LTS | `2.4.2` | ⚠️ outdated |
 | Arch | `4.4.2` | ✅ latest |
 | Homebrew | `4.4.2` | ✅ latest |
-| Nix unstable | `4.4.1` | ⚠️ outdated |
+| Nix unstable | `4.4.2` | ✅ latest |
 | Void | `4.3.8` | ⚠️ outdated |
 | Alpine edge | `4.2.7` | ⚠️ outdated |
 | openSUSE Tumbleweed | `4.4.1` | ⚠️ outdated |
@@ -88,4 +88,4 @@ Install metadata for kew lives in the [x-cmd/install](https://github.com/x-cmd/i
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261104.yml` · 2026-11-04T07:20:00Z._
+_Snapshot: `data/card/261105.yml` · 2026-11-05T07:42:19Z._
