@@ -38,7 +38,7 @@ x install kew
 
 ## 流行度
 
-- **Star**: 3,189 · **Fork**: 110 · **开放 issue**: 373 · **贡献者**: 58
+- **Star**: 3,193 · **Fork**: 110 · **开放 issue**: 373 · **贡献者**: 58
 
 ## 累计统计
 
@@ -48,12 +48,12 @@ x install kew
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-06 | 3 | 2 | 0 | 8 | 3 | 154 |
-| last60d | 2026-09-06 | 8 | 4 | 0 | 18 | 3 | 385 |
-| 90d | 2026-08-07 | 10 | 11 | 0 | 22 | 4 | 486 |
-| last180d | 2026-05-09 | 26 | 15 | 0 | 35 | 4 | 1580 |
-| 360d | 2025-11-10 | 31 | 20 | 0 | 87 | 4 | 1908 |
-| last720d | 2024-11-15 | 53 | 102 | 0 | 232 | 5 | 3171 |
+| 30d | 2026-10-07 | 3 | 1 | 0 | 7 | 3 | 154 |
+| last60d | 2026-09-07 | 8 | 4 | 0 | 18 | 3 | 385 |
+| 90d | 2026-08-08 | 10 | 11 | 0 | 22 | 4 | 486 |
+| last180d | 2026-05-10 | 26 | 15 | 0 | 35 | 4 | 1580 |
+| 360d | 2025-11-11 | 31 | 20 | 0 | 87 | 4 | 1908 |
+| last720d | 2024-11-16 | 53 | 102 | 0 | 227 | 5 | 3170 |
 
 ## Release 资产
 
@@ -64,7 +64,7 @@ x install kew
 
 ## 发行版状态
 
-在 [repology.org](https://repology.org/project/kew) 上共有 **52** 个发行版报告此项目。**15** 个 ✅ 已是最新上游版本，**31** 个 ⚠️ 使用旧版本。
+在 [repology.org](https://repology.org/project/kew) 上共有 **52** 个发行版报告此项目。**16** 个 ✅ 已是最新上游版本，**30** 个 ⚠️ 使用旧版本。
 
 | 发行版 | 版本 | 状态 |
 |--------|------|------|
@@ -73,9 +73,9 @@ x install kew
 | Ubuntu 26.04 LTS | `3.7.3` | ⚠️ outdated |
 | Ubuntu 24.04 LTS | `2.4.2` | ⚠️ outdated |
 | Arch | `4.4.2` | ✅ latest |
-| Homebrew | `4.4.2` | ✅ latest |
+| Homebrew | `HEAD` | 🔄 rolling |
 | Nix unstable | `4.4.2` | ✅ latest |
-| Void | `4.3.8` | ⚠️ outdated |
+| Void | `4.4.2` | ✅ latest |
 | Alpine edge | `4.2.7` | ⚠️ outdated |
 | openSUSE Tumbleweed | `4.4.1` | ⚠️ outdated |
 
@@ -88,4 +88,4 @@ kew 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索�
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261105.yml` · 2026-11-05T07:42:19Z._
+_数据快照: `data/card/261106.yml` · 2026-11-06T07:35:22Z._
