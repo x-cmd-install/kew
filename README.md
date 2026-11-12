@@ -14,12 +14,12 @@ x install kew
 
 ## Code insight
 
-Total: **139,041** lines of code across **144** files in the top 5 languages.
+Total: **139,058** lines of code across **144** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
 | CHeader | 100,108 | 21,687 | 17,913 | 79 |
-| C | 35,823 | 2,129 | 8,964 | 60 |
+| C | 35,840 | 2,130 | 8,966 | 60 |
 | Cpp | 2,190 | 152 | 567 | 3 |
 | Makefile | 396 | 51 | 79 | 1 |
 | ObjectiveC | 208 | 9 | 31 | 1 |
@@ -33,27 +33,27 @@ Total: **139,041** lines of code across **144** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v4.4.3` (2026-11-09)
-- **Last commit**: 2026-11-10
+- **Last commit**: 2026-11-11
 - **Assets in release**: 2
 
 ## Popularity
 
-- **Stars**: 3,206 · **Forks**: 112 · **Open issues**: 374 · **Contributors**: 59
+- **Stars**: 3,205 · **Forks**: 112 · **Open issues**: 374 · **Contributors**: 59
 
 ## Totals (cumulative)
 
-- **Releases**: 96 · **Merged PRs**: 134 · **Open PRs**: 0 · **Closed issues**: 371 · **Open issues**: 3 · **Commits**: 3854
+- **Releases**: 96 · **Merged PRs**: 134 · **Open PRs**: 0 · **Closed issues**: 371 · **Open issues**: 3 · **Commits**: 3856
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-12 | 3 | 1 | 0 | 9 | 0 | 113 |
-| last60d | 2026-09-12 | 9 | 5 | 0 | 18 | 1 | 382 |
-| 90d | 2026-08-13 | 11 | 11 | 0 | 25 | 2 | 499 |
-| last180d | 2026-05-15 | 27 | 16 | 0 | 38 | 2 | 1605 |
-| 360d | 2025-11-16 | 32 | 21 | 0 | 89 | 2 | 1927 |
-| last720d | 2024-11-21 | 54 | 103 | 0 | 230 | 3 | 3192 |
+| 30d | 2026-10-13 | 3 | 1 | 0 | 8 | 0 | 115 |
+| last60d | 2026-09-13 | 8 | 5 | 0 | 18 | 1 | 384 |
+| 90d | 2026-08-14 | 11 | 11 | 0 | 25 | 2 | 501 |
+| last180d | 2026-05-16 | 27 | 16 | 0 | 38 | 2 | 1607 |
+| 360d | 2025-11-17 | 32 | 21 | 0 | 89 | 2 | 1929 |
+| last720d | 2024-11-22 | 54 | 103 | 0 | 229 | 3 | 3194 |
 
 ## Release assets
 
@@ -64,7 +64,7 @@ Total: **139,041** lines of code across **144** files in the top 5 languages.
 
 ## Distribution status
 
-Reported by **56** distros on [repology.org](https://repology.org/project/kew). **5** are ✅ on the latest upstream release, **45** are ⚠️ on an older version.
+Reported by **55** distros on [repology.org](https://repology.org/project/kew). **5** are ✅ on the latest upstream release, **44** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
@@ -72,7 +72,7 @@ Reported by **56** distros on [repology.org](https://repology.org/project/kew). 
 | Debian 13 | `3.2.0` | ⚠️ outdated |
 | Ubuntu 26.04 LTS | `3.7.3` | ⚠️ outdated |
 | Ubuntu 24.04 LTS | `2.4.2` | ⚠️ outdated |
-| Arch | `4.4.2` | ⚠️ outdated |
+| Arch | `4.4.3` | ✅ latest |
 | Homebrew | `4.4.3` | ✅ latest |
 | Nix unstable | `4.4.2` | ⚠️ outdated |
 | Void | `4.4.2` | ⚠️ outdated |
@@ -88,4 +88,4 @@ Install metadata for kew lives in the [x-cmd/install](https://github.com/x-cmd/i
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261111.yml` · 2026-11-11T07:25:35Z._
+_Snapshot: `data/card/261112.yml` · 2026-11-12T08:32:29Z._
